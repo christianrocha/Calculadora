@@ -15,6 +15,7 @@ for (int i=0; i<=50; i++)
 
 	System.out.println("El resultado de la semilla es: " + res);
 	System.out.println("Variable aleatoria = "+ r);
+	System.out.println("Algoritmo terminado");
 }
 
 	}
